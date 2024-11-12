@@ -1,0 +1,30 @@
+[
+    {
+      "id": 1,
+      "title": "Music Concert",
+      "description": "A night of great music - An event that features a lineup of talented artists performing various songs and playing different genres of music.",
+      "category": "Music",
+      "date": "2024-12-20",
+      "availableSeats": 100,
+      "price": 500
+    },  
+    {
+      "id": 2,
+      "title": "Tech Conference",   
+      "description": "Latest trends in technology - Events that feature in-depth discussions, case studies, and presentations on the latest tech advancements. They are a great place to build a positive brand name and reputation, and to find new clients. Tech conferences often include free food, beverages, and swag.",    
+      "category": "Tech",
+      "date": "2024-11-25",
+      "availableSeats": 50,
+      "price": 150
+    },
+    {
+      "id": 3,
+      "title": "Dance Show",   
+      "description": "Dance is a divine art form that allows people to express a wide range of thoughts and emotions. Several people use dance to alleviate stress, while others see it as an opportunity to express feelings to their loved ones. The heart of dance is considered to be the soul, while the soul of music is considered to be the heart. You might be curious about a dance form that has nothing to do with music and is solely based on beats. In contrast to dance forms that include music, this type of dance takes more energy and effort.",    
+      "category": "Tech",
+      "date": "2024-11-12",
+      "availableSeats": 3,
+      "price": 150
+    }  
+] 
+

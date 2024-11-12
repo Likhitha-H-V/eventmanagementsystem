@@ -1,0 +1,47 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+body{
+    height: 100vh;
+}
+.eventDetails{
+    width: 70%;
+    margin-left: 300px;
+    background:linear-gradient(to top left, cyan, greenyellow);
+    margin-top: 30px;
+    padding: 20px;
+    font-size: 30px;
+    color: black;
+    border-radius: 5px;
+    box-shadow: 2px 2px 5px black;
+
+}
+.eventDetails button{
+    width: 100px;
+    height: 50px;
+    font-size: large;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+    font-weight: bolder;
+}
+.eventDetails button:hover{
+    background-color: white;
+    color: green;
+}
+.eventDetails button:active{
+    background-color: maroon;
+}
+.eventDetails button:disabled{
+    cursor: no-drop;
+    background-color: red;
+    color: white;
+}
+@media(max-width:600px){
+    .eventDetails{
+    font-size: 20px;
+    margin-left: 10px;
+    }
+}
